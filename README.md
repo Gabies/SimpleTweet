@@ -34,9 +34,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 <img src='https://imgur.com/ULx0cRm.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough'/
 
-
+[Demo YT Link](https://youtu.be/-u75LXTjq-I)
 
 Time spent: **5** hours spent in total
 
